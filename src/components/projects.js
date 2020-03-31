@@ -21,7 +21,7 @@ class Projects extends Component {
                    <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background}) center / cover`}}></CardTitle>
                    <CardText>UNILANCERPRO. Built with Php OOP</CardText>
                    <CardActions border>
-                        <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
+                        <a href="https://github.com/dikascode/uni-cer" rel="noopener noreferrer" target="_blank">
                             <Button colored>Github</Button>
                         </a>
                         
@@ -38,7 +38,7 @@ class Projects extends Component {
                     <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background2}) center / cover`}}></CardTitle>
                     <CardText>YouConnect. Event Ticketing Web application built with Php OOP/MVC</CardText>
                     <CardActions border>
-                        <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
+                        <a href="https://github.com/dikascode/youconnect" rel="noopener noreferrer" target="_blank">
                             <Button colored>Github</Button>
                         </a>
                         
@@ -53,7 +53,7 @@ class Projects extends Component {
                    <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background3}) center / cover`}}></CardTitle>
                    <CardText>OurMarket eCommerce App</CardText>
                    <CardActions border>
-                        <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
+                        <a href="https://github.com/dikascode/ourMarket" rel="noopener noreferrer" target="_blank">
                             <Button colored>Github</Button>
                         </a>
                         
@@ -72,7 +72,7 @@ class Projects extends Component {
                         <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background4}) center / cover`}}></CardTitle>
                         <CardText>My Portfolio</CardText>
                         <CardActions border>
-                                <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/dikascode/DUE_portfolio" rel="noopener noreferrer" target="_blank">
                                     <Button colored>Github</Button>
                                 </a>
                                 
