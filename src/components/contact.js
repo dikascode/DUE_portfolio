@@ -14,7 +14,7 @@ class Contact extends Component {
                             style={{height: '250px', borderRadius:'5%'}}
                         />
                         <p style={{ width:'75%', margin:'auto', paddingTop:'1em' }}>
-                        Software developer passionate about web architecture and cyber security. Seeking mentorship to contribute to a society changing course and to gain significant exposure to unique, social impact adventures while being accountable and imbibing discipline. 
+                        Software developer passionate about web architecture. Constantly learning, unlearning and relearning the best practices of web technologies. 
 
                         </p>
                     </Cell>

@@ -23,7 +23,7 @@ class Resume extends Component {
                         <hr style={{width: '50%', borderTop: '2px solid #833fb2'}} />
 
                         <p style={{margin:'auto', paddingTop:'1em' }}>
-                        Software developer passionate about web architecture and cyber security. Seeking mentorship to contribute to a society changing course and to gain significant exposure to unique, social impact adventures while being accountable and imbibing discipline. 
+                        Software developer passionate about web architecture. Constantly learning, unlearning and relearning the best practices of web technologies. 
 
                         </p>
 
