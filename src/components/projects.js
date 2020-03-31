@@ -19,7 +19,7 @@ class Projects extends Component {
                 {/* Php Project 1 */}
                <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                    <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background}) center / cover`}}></CardTitle>
-                   <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</CardText>
+                   <CardText>UNILANCERPRO. Built with Php OOP</CardText>
                    <CardActions border>
                         <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
                             <Button colored>Github</Button>
@@ -36,7 +36,7 @@ class Projects extends Component {
                 {/* Php Project 2 */}
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                     <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background2}) center / cover`}}></CardTitle>
-                    <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</CardText>
+                    <CardText>YouConnect. Event Ticketing Web application built with Php OOP/MVC</CardText>
                     <CardActions border>
                         <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
                             <Button colored>Github</Button>
@@ -51,7 +51,7 @@ class Projects extends Component {
 
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                    <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background3}) center / cover`}}></CardTitle>
-                   <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</CardText>
+                   <CardText>OurMarket eCommerce App</CardText>
                    <CardActions border>
                         <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
                             <Button colored>Github</Button>
@@ -70,7 +70,7 @@ class Projects extends Component {
                 <div className="project-grid">
                      <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                         <CardTitle style={{color:'#fff', height: '176px', background: `url(${Background4}) center / cover`}}></CardTitle>
-                        <CardText>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</CardText>
+                        <CardText>My Portfolio</CardText>
                         <CardActions border>
                                 <a href="https://www.linkedin.com/in/emmanuel-ututu-due" rel="noopener noreferrer" target="_blank">
                                     <Button colored>Github</Button>

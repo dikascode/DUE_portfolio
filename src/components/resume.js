@@ -23,8 +23,7 @@ class Resume extends Component {
                         <hr style={{width: '50%', borderTop: '2px solid #833fb2'}} />
 
                         <p style={{margin:'auto', paddingTop:'1em' }}>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  
-                            Faucibus a pellentesque sit amet porttitor eget dolor. Nibh venenatis cras sed felis eget velit aliquet. Odio eu feugiat pretium nibh ipsum consequat nisl. Arcu vitae elementum curabitur vitae.
+                        Software developer passionate about web architecture and cyber security. Seeking mentorship to contribute to a society changing course and to gain significant exposure to unique, social impact adventures while being accountable and imbibing discipline. 
 
                         </p>
 
