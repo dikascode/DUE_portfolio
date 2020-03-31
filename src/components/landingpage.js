@@ -17,7 +17,7 @@ class Landing extends Component {
                             <h1>Software Engineer</h1>
 
                             <hr />
-                            <p>HTML/CSS | Bootstrap | Javascript | React | Php | MySql</p>
+                            <p>HTML/CSS | Bootstrap | Javascript | React | Php | Laravel | MySql</p>
 
                             <div className="social-links">
 

@@ -109,6 +109,11 @@ class Resume extends Component {
                             progress={40}
                         />
 
+                        <Skills 
+                            skill="Laravel"
+                            progress={40}
+                        />
+
                     </Cell>
                 </Grid>
             </div>
