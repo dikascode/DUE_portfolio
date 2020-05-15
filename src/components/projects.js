@@ -45,7 +45,7 @@ class Projects extends Component {
                                     <Button colored>Github</Button>
                                 </a>
                                 
-                                <a href="https://www.uconnect.ng" rel="noopener noreferrer" target="_blank"><Button colored>Website</Button></a>
+                                <a href="https://youconnect.herokuapp.com/" rel="noopener noreferrer" target="_blank"><Button colored>Website</Button></a>
                             </CardActions>
                             <CardMenu style={{color:'#fff'}}>
                                 <IconButton name="share" />
